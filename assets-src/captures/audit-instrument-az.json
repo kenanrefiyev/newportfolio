@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "instrument-az",
+    "url": "https://instrument-az.vercel.app/",
+    "gotoWarn": "TimeoutError: page.goto: Timeout 60000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://instrument-az.vercel.app/\", waiting until \"networkidle\"\u001b[22m\n",
+    "finalUrl": "https://instrument-az.vercel.app/",
+    "headers": {},
+    "meta": {
+      "title": "İnstrument.az — Musiqi alətləri bazarı",
+      "lang": "az",
+      "description": "Azərbaycanda işlənmiş və yeni musiqi alətlərini alın və satın. Gitaralar, sintezatorlar, milli alətlər — musiqiçidən musiqiçiyə.",
+      "generator": "",
+      "h1": [
+        "Musiqiçidən musiqiçiyə"
+      ],
+      "h2": [
+        "Yeni elanlar",
+        "Köhnə alətinə yeni həyat ver",
+        "Kateqoriyalar üzrə axtar",
+        "Tar, kamança, saz — ustadan sənə",
+        "Qiymət düşəndə ilk sən bil"
+      ],
+      "nav": [
+        "İnstrument",
+        "Elan yerləşdir",
+        "Daxil ol",
+        "Endirimlər",
+        "Bizneslər",
+        "Tonlar",
+        "Elektro gitaralar",
+        "Akustik gitaralar",
+        "Klassik gitaralar",
+        "Bas gitaralar",
+        "Milli alətlər",
+        "Tonlar",
+        "Bizneslər",
+        "Ustalar",
+        "Kurslar",
+        "Mağazalar",
+        "Studiolar",
+        "Endirimlər",
+        "Elan yerləşdir",
+        "Qiymət bələdçisi"
+      ],
+      "next": false,
+      "nextApp": false,
+      "vite": true,
+      "meteor": false,
+      "react": true,
+      "tailwind": true,
+      "gsap": false,
+      "lenis": false,
+      "framer": false,
+      "fullHeight": 3681,
+      "scripts": [
+        "https://instrument-az.vercel.app/assets/index-DtvnRmv7.js"
+      ]
+    },
+    "fullHeightAfter": 3681,
+    "mobileOverflow": false
+  }
+]

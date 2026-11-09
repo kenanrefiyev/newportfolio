@@ -1,0 +1,692 @@
+[
+  {
+    "slug": "galaxy-technology",
+    "url": "https://galaxytechnology.az/",
+    "status": 200,
+    "finalUrl": "https://galaxytechnology.az/",
+    "headers": {
+      "server": "nginx/1.18.0 (Ubuntu)"
+    },
+    "meta": {
+      "title": "Galaxy Technology | Bakıda Veb Sayt, AI, Kiber Təhlükəsizlik, Bot Xidmətləri",
+      "lang": "az",
+      "description": "Galaxy Technology — Bakıda veb sayt hazırlanması, süni intellekt, kiber təhlükəsizlik, Umico botu və sosial şəbəkə botları üzrə lider IT şirkəti. +994 55 503 95 05",
+      "generator": "",
+      "h1": [
+        "Bakıda Veb Sayt, CRM/ERP və IT Həllərinin Hazırlanması — Galaxy Technology"
+      ],
+      "h2": [
+        "Niyə GALAXY TECHNOLOGY?",
+        "Niyə GALAXY TECHNOLOGY?",
+        "Biz Kimik və Missiyamız Nədir?",
+        "GALAXY Biznes Şəbəkəsi",
+        "Bizimlə Əlaqə"
+      ],
+      "nav": [],
+      "next": false,
+      "nextApp": false,
+      "vite": true,
+      "meteor": false,
+      "react": true,
+      "tailwind": true,
+      "gsap": false,
+      "lenis": false,
+      "framer": true,
+      "fullHeight": 3775,
+      "scripts": [
+        "https://galaxytechnology.az/assets/index-CJU0pzSv.js"
+      ]
+    },
+    "fullHeightAfter": 3775,
+    "mobileOverflow": false
+  },
+  {
+    "slug": "rum-rentacar",
+    "url": "https://rumrentacar.az/",
+    "status": 200,
+    "finalUrl": "https://rumrentacar.az/",
+    "headers": {
+      "server": "cloudflare",
+      "x-powered-by": "Express"
+    },
+    "meta": {
+      "title": "RUM Rent A Car — Bakıda avtomobil icarəsi",
+      "lang": "",
+      "description": "RUM Rent A Car — Bakıda sərfəli qiymətə avtomobil icarəsi. Geniş avtopark, sürətli rəsmiləşdirmə, ünvana çatdırılma.",
+      "generator": "",
+      "h1": [
+        "Arzuladığınız avtomobili sərfəli qiymətə icarəyə götürün"
+      ],
+      "h2": [
+        "Avtoparkımızdakı markalar",
+        "Populyar avtomobillər",
+        "Növünə görə seçin",
+        "İcarə prosesini sizin üçün asanlaşdırırıq",
+        "Fərqlənmək istəyənlər üçün",
+        "İcarə 3 addımda",
+        "Müştərilərimiz nə deyir",
+        "Tez-tez verilən suallar",
+        "Sabahkı səfəriniz üçün avtomobil bu gün hazırdır"
+      ],
+      "nav": [
+        "Ana səhifə",
+        "Avtomobillər",
+        "Haqqımızda",
+        "FAQ",
+        "Əlaqə",
+        "+994 55 909 50 05",
+        "Rezervasiya"
+      ],
+      "next": false,
+      "nextApp": false,
+      "vite": false,
+      "meteor": true,
+      "react": true,
+      "tailwind": true,
+      "gsap": false,
+      "lenis": false,
+      "framer": false,
+      "fullHeight": 7504,
+      "scripts": [
+        "https://rumrentacar.az/398c4242cc954c90c92d5fc93d00c19ea36c743e.js?meteor_js_resource=true",
+        "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092"
+      ]
+    },
+    "fullHeightAfter": 7504,
+    "mobileOverflow": false
+  },
+  {
+    "slug": "taxwise",
+    "url": "https://www.taxwisesolution.az/",
+    "status": 200,
+    "finalUrl": "https://www.taxwisesolution.az/",
+    "headers": {
+      "server": "Vercel",
+      "x-nextjs-prerender": "1",
+      "x-vercel-id": "fra1::6qk8h-1794253043132-aaec886241b6"
+    },
+    "meta": {
+      "title": "Tax Wise Solutions | Mühasibat, Vergi və Maliyyə Xidmətləri",
+      "lang": "az",
+      "description": "Tax Wise Solutions — Azərbaycanda şirkətlər və sahibkarlar üçün mühasibat uçotu, vergi, audit, əmək haqqı uçotu, maliyyə hesabatlılığı və biznes məsləhətləri xidmətləri.",
+      "generator": "",
+      "h1": [
+        "Biznesiniz üçün düzgün maliyyə qərarları"
+      ],
+      "h2": [
+        "Biznesinizin maliyyə tərəfini bizə həvalə edin",
+        "Biz kimik?",
+        "Xidmətlərimiz",
+        "Niyə Tax Wise Solutions?",
+        "Bizimlə əməkdaşlıq necə başlayır?",
+        "Xidmətimizin əhatəsi bir baxışda",
+        "Kimlər üçün?",
+        "Maliyyə məsələlərini daha rahat idarə edin",
+        "Müştərilərimiz nə deyir?",
+        "Faydalı məlumatlar"
+      ],
+      "nav": [
+        "Ana səhifə",
+        "Haqqımızda",
+        "Xidmətlər",
+        "Sektorlar",
+        "Insights",
+        "Əlaqə",
+        "WhatsApp+994 55 555 56 54",
+        "Əlaqə saxla"
+      ],
+      "next": true,
+      "nextApp": true,
+      "vite": false,
+      "meteor": false,
+      "react": true,
+      "tailwind": true,
+      "gsap": false,
+      "lenis": false,
+      "framer": false,
+      "fullHeight": 11119,
+      "scripts": [
+        "https://www.taxwisesolution.az/_next/static/immutable/chunks/28fkf9f9btak4.js",
+        "https://www.taxwisesolution.az/_next/static/immutable/chunks/2bjs5cel66uac.js",
+        "https://www.taxwisesolution.az/_next/static/immutable/chunks/3wc_kxht-4htf.js",
+        "https://www.taxwisesolution.az/_next/static/immutable/chunks/turbopack-3j2mnq-k6z30h.js",
+        "https://www.taxwisesolution.az/_next/static/immutable/chunks/222gm5i362005.js",
+        "https://www.taxwisesolution.az/_next/static/immutable/chunks/2ph_2gon1y-44.js",
+        "https://www.taxwisesolution.az/_next/static/immutable/chunks/1g3b4vvc06z0i.js",
+        "https://www.taxwisesolution.az/_next/static/immutable/chunks/1-eslz2vob33x.js"
+      ]
+    },
+    "fullHeightAfter": 11119,
+    "mobileOverflow": false
+  },
+  {
+    "slug": "vintage",
+    "url": "https://vintage.az/",
+    "gotoWarn": "TimeoutError: page.goto: Timeout 60000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://vintage.az/\", waiting until \"networkidle\"\u001b[22m\n",
+    "finalUrl": "https://www.vintage.az/",
+    "headers": {},
+    "meta": {
+      "title": "VINTAGE — Vintaj və ikinci əl geyim",
+      "lang": "az",
+      "description": "Bakıda seçilmiş vintaj və ikinci əl geyim — nadir dizayner əşyaları, iş geyimi, denim, dəri, Y2K və idman geyimi. Hər biri əl ilə yoxlanılır, qiymətləndirilir və çəkilir.",
+      "generator": "",
+      "h1": [
+        "Vintaj.Yenidən kəşf et."
+      ],
+      "h2": [
+        "Yeni gələnlər",
+        "Kateqoriyalar",
+        "Dəriseçkisi",
+        "Brendlər üzrə",
+        "Trenddə",
+        "Niyəvintaj?",
+        "Vintageməktubu",
+        "Alış-veriş",
+        "Haqqımızda",
+        "Müştəri xidməti"
+      ],
+      "nav": [
+        "Mağazalar",
+        "Hesab",
+        "AZ",
+        "EN",
+        "RU",
+        "VINTAGE",
+        "Mağazalar",
+        "Məhsullar",
+        "Gödəkçələr",
+        "Paltolar",
+        "Toxunma geyimlər",
+        "Köynəklər",
+        "Futbolkalar",
+        "Sviterşotlar",
+        "Cins şalvarlar",
+        "Şalvarlar",
+        "Donlar və ətəklər",
+        "İş geyimi",
+        "İdman geyimi",
+        "Dizayner"
+      ],
+      "next": true,
+      "nextApp": true,
+      "vite": false,
+      "meteor": false,
+      "react": true,
+      "tailwind": true,
+      "gsap": false,
+      "lenis": false,
+      "framer": false,
+      "fullHeight": 8909,
+      "scripts": [
+        "https://www.vintage.az/_next/static/immutable/chunks/0ccxf-l6errvq.js",
+        "https://www.vintage.az/_next/static/immutable/chunks/2g_6i0osi3kb7.js",
+        "https://www.vintage.az/_next/static/immutable/chunks/13ptcxx__bh8g.js",
+        "https://www.vintage.az/_next/static/immutable/chunks/turbopack-1oc-wi1dtcrjw.js",
+        "https://www.vintage.az/_next/static/immutable/chunks/2corl6wyj4669.js",
+        "https://www.vintage.az/_next/static/immutable/chunks/30afdyd6vr7h0.js",
+        "https://www.vintage.az/_next/static/immutable/chunks/3-31x5fk941-a.js",
+        "https://www.vintage.az/_next/static/immutable/chunks/0o6qh77fr9nl9.js"
+      ]
+    },
+    "fullHeightAfter": 8909,
+    "mobileOverflow": false
+  },
+  {
+    "slug": "direct",
+    "url": "https://direct-iota-self.vercel.app/",
+    "status": 200,
+    "finalUrl": "https://direct-iota-self.vercel.app/",
+    "headers": {
+      "server": "Vercel",
+      "x-vercel-id": "fra1::9xhvk-1794253154026-a14c8ab3064a"
+    },
+    "meta": {
+      "title": "Direct Tasarım Ajansı | Markanız İçin En Direkt Yol",
+      "lang": "tr",
+      "description": "Direct, kategorisinde öne çıkmak isteyen B2B markalar için marka kimliği, dijital deneyim ve büyüme tasarlayan bir marka ve tasarım ajansıdır.",
+      "generator": "",
+      "h1": [
+        "Öne geçenmarkalarkuruyoruz"
+      ],
+      "h2": [
+        "Strateji",
+        "Tasarım",
+        "Geliştirme",
+        "Pazarlama",
+        "Yapay zekâ çağında ilkelerimiz",
+        "Müşterilerimizne diyor"
+      ],
+      "nav": [
+        "Ana Sayfa",
+        "Projeler",
+        "Hizmetler",
+        "Ajans",
+        "The Zone",
+        "Bize Ulaşın",
+        "Ana Sayfa",
+        "Projeler",
+        "Hizmetler",
+        "Ajans",
+        "The Zone",
+        "Bize Ulaşın"
+      ],
+      "next": false,
+      "nextApp": false,
+      "vite": true,
+      "meteor": false,
+      "react": true,
+      "tailwind": true,
+      "gsap": false,
+      "lenis": true,
+      "framer": false,
+      "fullHeight": 9844,
+      "scripts": [
+        "https://direct-iota-self.vercel.app/assets/index-D5o4uFBK.js"
+      ]
+    },
+    "fullHeightAfter": 9844,
+    "mobileOverflow": false
+  },
+  {
+    "slug": "yuva",
+    "url": "https://emlak-sigma-eight.vercel.app/az",
+    "status": 200,
+    "finalUrl": "https://emlak-sigma-eight.vercel.app/az",
+    "headers": {
+      "server": "Vercel",
+      "x-vercel-id": "arn1::iad1::rfq64-1794253199108-719faef968c7"
+    },
+    "meta": {
+      "title": "YUVA — Ev tap. Öz insanlarını tap.",
+      "lang": "az",
+      "description": "Azərbaycan və Türkiyədə tələbələr üçün otaqlar, ortaq mənzillər və ev yoldaşları — Bakı, İstanbul, Ankara, İzmir və digər şəhərlər; qiymətlər AZN və ya TRY ilə.",
+      "generator": "",
+      "h1": [
+        "Dünyada öz yerini tap."
+      ],
+      "h2": [
+        "Ölkəni seç",
+        "Azərbaycan: populyar şəhərlər",
+        "Seçilmiş tələbə evləri",
+        "Ev yoldaşı tap",
+        "Ortaq mənzillər",
+        "Universitetə yaxın ev axtar",
+        "YUVA necə işləyir",
+        "Elanlara necə baxırıq",
+        "Maklersiniz və ya ev sahibisiniz?",
+        "Axtarış"
+      ],
+      "nav": [
+        "tələbə evləri",
+        "Tələbə evləri",
+        "Ev yoldaşı tap",
+        "Ailə üçün evlər",
+        "Ərazilər",
+        "Daxil ol",
+        "Elan yerləşdir",
+        "Ana səhifə",
+        "Tələbə evləri",
+        "Ev yoldaşı tap",
+        "Ailə üçün evlər",
+        "Ərazilər",
+        "Daxil ol",
+        "Qeydiyyat",
+        "ExchangeRate-API",
+        "Elan yerləşdir"
+      ],
+      "next": true,
+      "nextApp": true,
+      "vite": false,
+      "meteor": false,
+      "react": true,
+      "tailwind": true,
+      "gsap": false,
+      "lenis": false,
+      "framer": false,
+      "fullHeight": 8187,
+      "scripts": [
+        "https://emlak-sigma-eight.vercel.app/_next/static/immutable/chunks/44xcerwlley0q.js",
+        "https://emlak-sigma-eight.vercel.app/_next/static/immutable/chunks/3gqk2-nq0rn8s.js",
+        "https://emlak-sigma-eight.vercel.app/_next/static/immutable/chunks/0f_7g8ajinr7m.js",
+        "https://emlak-sigma-eight.vercel.app/_next/static/immutable/chunks/35fnw5v5cjtho.js",
+        "https://emlak-sigma-eight.vercel.app/_next/static/immutable/chunks/turbopack-1byz1flvc-bu1.js",
+        "https://emlak-sigma-eight.vercel.app/_next/static/immutable/chunks/0f1nv-wrcvyks.js",
+        "https://emlak-sigma-eight.vercel.app/_next/static/immutable/chunks/0j5gfe575ijbb.js",
+        "https://emlak-sigma-eight.vercel.app/_next/static/immutable/chunks/1385v2xbi60pu.js"
+      ]
+    },
+    "fullHeightAfter": 8187,
+    "mobileOverflow": false
+  },
+  {
+    "slug": "chaidash",
+    "url": "https://chaidash.vercel.app/",
+    "status": 200,
+    "finalUrl": "https://chaidash.vercel.app/",
+    "headers": {
+      "server": "Vercel",
+      "x-nextjs-prerender": "1",
+      "x-vercel-id": "fra1::rvhz8-1794253226317-82db2fc69fcd"
+    },
+    "meta": {
+      "title": "CHAIDASH · Menyu",
+      "lang": "az",
+      "description": "CHAIDASH — Tea house · Lounge · Rooms. Menyu və qiymətlər.",
+      "generator": "",
+      "h1": [
+        "CHAIDASH — Tea house · Lounge · Rooms — menyu"
+      ],
+      "h2": [
+        "İsti qəlyanaltılar",
+        "Salatlar",
+        "Şorbalar",
+        "İsti yeməklər",
+        "Food",
+        "Pizzalar",
+        "Qarnir",
+        "Peraşki Qutab",
+        "Pivə məzələri",
+        "Pivələr"
+      ],
+      "nav": [
+        "@chaidash.baku — Instagram (yeni pəncərədə açılır)",
+        "İsti qəlyanaltılar",
+        "Salatlar",
+        "Şorbalar",
+        "İsti yeməklər",
+        "Food",
+        "Pizzalar",
+        "Qarnir",
+        "Peraşki Qutab",
+        "Pivə məzələri",
+        "Pivələr",
+        "Sərin içkilər",
+        "Limonad",
+        "Alkoqolsuz kokteyllər",
+        "Milkshake",
+        "Çay",
+        "Dessert",
+        "Mürəbbələr",
+        "Çərəzlər",
+        "Qəlyan · Standart"
+      ],
+      "next": true,
+      "nextApp": true,
+      "vite": false,
+      "meteor": false,
+      "react": true,
+      "tailwind": false,
+      "gsap": false,
+      "lenis": false,
+      "framer": false,
+      "fullHeight": 17332,
+      "scripts": [
+        "https://chaidash.vercel.app/_next/static/immutable/chunks/0meshd4c712hl.js",
+        "https://chaidash.vercel.app/_next/static/immutable/chunks/0hl3gyu45lw40.js",
+        "https://chaidash.vercel.app/_next/static/immutable/chunks/20xelqi0bxx4-.js",
+        "https://chaidash.vercel.app/_next/static/immutable/chunks/turbopack-1cvbnb3nlabgn.js",
+        "https://chaidash.vercel.app/_next/static/immutable/chunks/00z4pmesk2f4f.js",
+        "https://chaidash.vercel.app/_next/static/immutable/chunks/141yi-mdb_94c.js",
+        "https://chaidash.vercel.app/_next/static/immutable/chunks/2fl-10sxxqne_.js",
+        "https://chaidash.vercel.app/_next/static/immutable/chunks/371hy33azl9vd.js"
+      ]
+    },
+    "fullHeightAfter": 17332,
+    "mobileOverflow": false
+  },
+  {
+    "slug": "xaxaxa",
+    "url": "https://xaxaxa-info.vercel.app/",
+    "status": 200,
+    "finalUrl": "https://xaxaxa-info.vercel.app/",
+    "headers": {
+      "server": "Vercel",
+      "x-nextjs-prerender": "1",
+      "x-vercel-id": "arn1::pkmdz-1794253256486-b14bbbf3e062"
+    },
+    "meta": {
+      "title": "WWWORLD // 0007",
+      "lang": "en",
+      "description": "A personal homepage that has been running unattended since 2004. Nothing here is important.",
+      "generator": "",
+      "h1": [
+        "WWWORLD // 0007"
+      ],
+      "h2": [],
+      "nav": [],
+      "next": true,
+      "nextApp": true,
+      "vite": false,
+      "meteor": false,
+      "react": true,
+      "tailwind": true,
+      "gsap": false,
+      "lenis": false,
+      "framer": false,
+      "fullHeight": 900,
+      "scripts": [
+        "https://xaxaxa-info.vercel.app/_next/static/immutable/chunks/0jo3lv8klof30.js",
+        "https://xaxaxa-info.vercel.app/_next/static/immutable/chunks/2u1x5jbe29pnq.js",
+        "https://xaxaxa-info.vercel.app/_next/static/immutable/chunks/turbopack-1hqbrq79pu-xu.js",
+        "https://xaxaxa-info.vercel.app/_next/static/immutable/chunks/1tf2pn9278k7y.js",
+        "https://xaxaxa-info.vercel.app/_next/static/immutable/chunks/18kf-zmi7r1vb.js",
+        "https://xaxaxa-info.vercel.app/_next/static/immutable/chunks/0c0hxoamwjsbw.js",
+        "https://xaxaxa-info.vercel.app/_next/static/immutable/chunks/1kbt14nefgsiq.js"
+      ]
+    },
+    "fullHeightAfter": 900,
+    "mobileOverflow": false
+  },
+  {
+    "slug": "finline",
+    "url": "https://finlinee.vercel.app/",
+    "status": 200,
+    "finalUrl": "https://finlinee.vercel.app/",
+    "headers": {
+      "server": "Vercel",
+      "x-nextjs-prerender": "1",
+      "x-vercel-id": "arn1::zb7t8-1794253307121-9e18aa0c9bc9"
+    },
+    "meta": {
+      "title": "Finline Advisory | Mühasibatlıq, Vergi və Maliyyə Xidmətləri",
+      "lang": "az",
+      "description": "Finline Advisory — bizneslər üçün mühasibatlıq, vergi, maliyyə məsləhətçiliyi və digər peşəkar maliyyə xidmətləri.",
+      "generator": "",
+      "h1": [
+        "Biznesiniz üçün maliyyə dəqiqliyi və strateji yanaşma"
+      ],
+      "h2": [
+        "Biznesiniz üçün etibarlı maliyyə tərəfdaşınız",
+        "Xidmətlərimiz",
+        "Niyə FINLINE?",
+        "Əməkdaşlıq necə başlayır?",
+        "Biznesinizin maliyyə proseslərini daha sistemli idarə edin",
+        "Kimlər üçün?",
+        "Tez-tez verilən suallar",
+        "Faydalı məlumatlar",
+        "Bizimlə əlaqə saxlayın",
+        "Naviqasiya"
+      ],
+      "nav": [
+        "info@finline.az",
+        "+994 50 766 11 88",
+        "Ana səhifə",
+        "Haqqımızda",
+        "Xidmətlər",
+        "Üstünlüklərimiz",
+        "Bloq",
+        "Əlaqə",
+        "Konsultasiya al",
+        "Ana səhifə",
+        "Haqqımızda",
+        "Xidmətlər",
+        "Bloq",
+        "Əlaqə",
+        "Mühasibatlıq",
+        "Vergi xidmətləri",
+        "Maliyyə və idarəetmə",
+        "Əməkhaqqı və kadr uçotu"
+      ],
+      "next": true,
+      "nextApp": true,
+      "vite": false,
+      "meteor": false,
+      "react": true,
+      "tailwind": true,
+      "gsap": false,
+      "lenis": false,
+      "framer": false,
+      "fullHeight": 9566,
+      "scripts": [
+        "https://finlinee.vercel.app/_next/static/immutable/chunks/2p784a2jb6l-e.js",
+        "https://finlinee.vercel.app/_next/static/immutable/chunks/1k_9q-jryr3-0.js",
+        "https://finlinee.vercel.app/_next/static/immutable/chunks/3wc_kxht-4htf.js",
+        "https://finlinee.vercel.app/_next/static/immutable/chunks/turbopack-1ch1tw7proae1.js",
+        "https://finlinee.vercel.app/_next/static/immutable/chunks/1lw7w9o6hlsyo.js",
+        "https://finlinee.vercel.app/_next/static/immutable/chunks/2q5dtdm8fyvqr.js",
+        "https://finlinee.vercel.app/_next/static/immutable/chunks/23239-v0s292d.js",
+        "https://finlinee.vercel.app/_next/static/immutable/chunks/06mygwibh9h9g.js"
+      ]
+    },
+    "fullHeightAfter": 9566,
+    "mobileOverflow": false
+  },
+  {
+    "slug": "yasemin",
+    "url": "https://www.yaseminintakidunyasi.com/",
+    "status": 200,
+    "finalUrl": "https://www.yaseminintakidunyasi.com/",
+    "headers": {
+      "server": "cloudflare",
+      "x-nextjs-cache": "HIT",
+      "x-nextjs-prerender": "1\n1",
+      "x-powered-by": "Next.js"
+    },
+    "meta": {
+      "title": "Yaseminin Takı Dünyası — Zarif Takı Koleksiyonları",
+      "lang": "tr",
+      "description": "El işçiliğiyle tamamlanan yüzük, kolye, küpe ve bileklik koleksiyonları.",
+      "generator": "",
+      "h1": [
+        "Yaseminin Takı Dünyası — el işçiliği takı koleksiyonları"
+      ],
+      "h2": [
+        "Sade çizgiler,kalıcı zarafet",
+        "Günlük takı,özel dokunuş",
+        "Detaylarfarkı yaratır",
+        "Altınınsıcak ışıltısı",
+        "Koleksiyonlar",
+        "Yeni Gelenler",
+        "Her parçaelde tamamlanır",
+        "Öne Çıkanlar",
+        "Atölyeden",
+        "Yeni Parçalardan Haberdar Olun"
+      ],
+      "nav": [
+        "Telefonla sipariş +90 212 555 00 00",
+        "Sipariş Takip",
+        "Ana Sayfa",
+        "Kategoriler",
+        "Ürünler",
+        "Fuarlar",
+        "Hakkımızda",
+        "İletişim",
+        "Giriş Yap",
+        "Hesap Oluştur",
+        "Ana Sayfa",
+        "Kategoriler",
+        "Ürünler",
+        "Fuarlar",
+        "Hakkımızda",
+        "İletişim",
+        "Sepetim",
+        "Favorilerim",
+        "Giriş Yap",
+        "Kayıt Ol"
+      ],
+      "next": true,
+      "nextApp": true,
+      "vite": false,
+      "meteor": false,
+      "react": true,
+      "tailwind": true,
+      "gsap": false,
+      "lenis": false,
+      "framer": false,
+      "fullHeight": 7578,
+      "scripts": [
+        "https://www.yaseminintakidunyasi.com/_next/static/chunks/0pqt~8bl3ukh4.js",
+        "https://www.yaseminintakidunyasi.com/_next/static/chunks/00v23ob85u6p2.js",
+        "https://www.yaseminintakidunyasi.com/_next/static/chunks/0hgt669s0vgl..js",
+        "https://www.yaseminintakidunyasi.com/_next/static/chunks/turbopack-11.4eyamian6s.js",
+        "https://www.yaseminintakidunyasi.com/_next/static/chunks/0b9467tr7fekx.js",
+        "https://www.yaseminintakidunyasi.com/_next/static/chunks/0d3shmwh5_nmn.js",
+        "https://www.yaseminintakidunyasi.com/_next/static/chunks/0587vrkg_wlrq.js",
+        "https://www.yaseminintakidunyasi.com/_next/static/chunks/0.-wn6-ofbvow.js"
+      ]
+    },
+    "fullHeightAfter": 7578,
+    "mobileOverflow": false
+  },
+  {
+    "slug": "instrument-az",
+    "url": "https://instrument-az.vercel.app/",
+    "gotoWarn": "TimeoutError: page.goto: Timeout 60000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://instrument-az.vercel.app/\", waiting until \"networkidle\"\u001b[22m\n",
+    "finalUrl": "https://instrument-az.vercel.app/",
+    "headers": {},
+    "meta": {
+      "title": "İnstrument.az — Musiqi alətləri bazarı",
+      "lang": "az",
+      "description": "Azərbaycanda işlənmiş və yeni musiqi alətlərini alın və satın. Gitaralar, sintezatorlar, milli alətlər — musiqiçidən musiqiçiyə.",
+      "generator": "",
+      "h1": [
+        "Musiqiçidən musiqiçiyə"
+      ],
+      "h2": [
+        "Yeni elanlar",
+        "Köhnə alətinə yeni həyat ver",
+        "Kateqoriyalar üzrə axtar",
+        "Tar, kamança, saz — ustadan sənə",
+        "Qiymət düşəndə ilk sən bil",
+        "Sizə yaxın elanları göstərək?"
+      ],
+      "nav": [
+        "İnstrument",
+        "Elan yerləşdir",
+        "Daxil ol",
+        "Endirimlər",
+        "Bizneslər",
+        "Tonlar",
+        "Elektro gitaralar",
+        "Akustik gitaralar",
+        "Klassik gitaralar",
+        "Bas gitaralar",
+        "Milli alətlər",
+        "Tonlar",
+        "Bizneslər",
+        "Ustalar",
+        "Kurslar",
+        "Mağazalar",
+        "Studiolar",
+        "Endirimlər",
+        "Elan yerləşdir",
+        "Qiymət bələdçisi"
+      ],
+      "next": false,
+      "nextApp": false,
+      "vite": true,
+      "meteor": false,
+      "react": true,
+      "tailwind": true,
+      "gsap": false,
+      "lenis": false,
+      "framer": false,
+      "fullHeight": 3681,
+      "scripts": [
+        "https://instrument-az.vercel.app/assets/index-DtvnRmv7.js"
+      ]
+    },
+    "fullHeightAfter": 3681,
+    "mobileOverflow": false
+  }
+]

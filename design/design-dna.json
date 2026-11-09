@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "name": "Computer Collection — portfolio DNA",
+    "description": "Light editorial archive in which eleven silver all-in-one computers are the gallery; each screen shows the real website it represents.",
+    "source_references": [
+      "https://a24.raviklaassens.com/ (measured: body rgb(242,242,242), ink #000, 12px base at 1440, faces Ppeiko / PPNeueMontreal / Ppmuseum, diagonal disc rail, credits table top-left, review quotes at the foot, torn-edge detail page)",
+      "User CSS reference (1920 ideal container, fluid --size-font, heading scale xxl→xs at -0.04em, vh spacing scale)",
+      "User master prompt (ivory palette, iMac-style silver hardware, gallery behaviour)"
+    ],
+    "created_at": "2026-11-09"
+  },
+  "design_system": {
+    "color": {
+      "palette_type": "monochromatic warm-neutral; colour comes only from the website screenshots",
+      "primary": { "hex": "#F3F2EE", "role": "paper: the room the computers stand in (a touch cooler than cream, between A24's #F2F2F2 and the brief's #F5F3EE)" },
+      "secondary": { "hex": "#E8E6E0", "role": "paper-deep: floor shadows, ledger hover, overlay plates" },
+      "accent": { "hex": "#191919", "role": "ink as the only accent: primary action fill, focus ring, selected index tick" },
+      "neutral": {
+        "scale": ["#FBFAF8", "#F3F2EE", "#E8E6E0", "#D6D4CE", "#B9B7B0", "#8C8984", "#6A6762", "#3B3936", "#191919"],
+        "usage": "FBFAF8 surface; F3F2EE ground; E8E6E0 tone steps; B9B7B0 aluminium reference; 6A6762 secondary text (5.0:1 on ground); 191919 text and actions"
+      },
+      "semantic": { "success": "#2F6B4F", "warning": "#8A6A1F", "error": "#9B2C2C", "info": "#3B3936" },
+      "surface": { "background": "#F3F2EE", "card": "#FBFAF8", "elevated": "#FFFFFF" },
+      "contrast_strategy": "dark-on-light dominant; secondary text tinted warm grey never below 4.5:1; colour reserved for the screens"
+    },
+    "typography": {
+      "type_scale": {
+        "display": { "size": "clamp(3.25rem, 7.2vw, 10rem)", "weight": "400", "line_height": "0.92", "tracking": "-0.04em" },
+        "heading_1": { "size": "clamp(2.5rem, 4.6vw, 6rem)", "weight": "400", "line_height": "1", "tracking": "-0.04em" },
+        "heading_2": { "size": "clamp(1.75rem, 2.4vw, 3.5rem)", "weight": "400", "line_height": "1.05", "tracking": "-0.03em" },
+        "heading_3": { "size": "clamp(1.375rem, 1.5vw, 1.75rem)", "weight": "400", "line_height": "1.1", "tracking": "-0.02em" },
+        "body": { "size": "clamp(16px, 1.05vw, 20px)", "weight": "400", "line_height": "1.5", "tracking": "-0.005em" },
+        "body_small": { "size": "clamp(14px, 0.85vw, 16px)", "weight": "400", "line_height": "1.45", "tracking": "0" },
+        "caption": { "size": "clamp(13px, 0.72vw, 14px)", "weight": "500", "line_height": "1.3", "tracking": "0.01em" },
+        "overline": { "size": "clamp(11px, 0.62vw, 12px)", "weight": "500", "line_height": "1.2", "tracking": "0.08em" }
+      },
+      "font_families": {
+        "heading": "Bodoni Moda (OFL) — stands in for the reference's Ppeiko: high-contrast display serif, used only at display sizes",
+        "body": "Hanken Grotesk (OFL) — stands in for PP Neue Montreal: neutral grotesk, covers ə ı ü ş ç ğ İ",
+        "mono": "none (tabular figures of Hanken Grotesk for counters)"
+      },
+      "font_style_notes": "Two families. Serif only for project titles and the h1; every label, link and paragraph in the grotesk. Capitals only where the brief asks for them (nav, overline labels)."
+    },
+    "spacing": {
+      "base_unit": "1em = --size-font (16px at 1920, fluid with the container, floor 992px)",
+      "scale": ["0.25em", "0.5em", "1em", "1.5em", "2em", "3em", "5em", "8em", "2.667vh", "5.333vh", "9.778vh", "21.333vh"],
+      "content_density": "spacious around the objects, compact inside labels",
+      "section_rhythm": "sections separated by --space-m (21vh) on desktop; labels use 0.5–1em internal steps"
+    },
+    "layout": {
+      "grid_system": "12 columns, 2em page padding (1.5em tablet, 1rem phone), 2em gutter",
+      "max_content_width": "3840px container cap; text measures capped at 62ch",
+      "columns": "12",
+      "gutter": "var(--grid-gap)",
+      "breakpoints": { "phone": "<= 599px", "tablet": "600–991px", "desktop": ">= 992px", "wide": ">= 1920px" },
+      "alignment_tendency": "asymmetric inside a symmetric frame: labels hang from the left margin, controls from the right"
+    },
+    "shape": {
+      "border_radius": { "small": "2px", "medium": "4px", "large": "8px", "pill": "999px (index ticks only)" },
+      "border_usage": "hairlines only inside label tables (the museum-label schema), never around blocks",
+      "divider_style": "1px rgba(25,25,25,.12) rule inside label tables"
+    },
+    "elevation": {
+      "shadow_style": "none on UI; physical contact shadows only under the computers",
+      "levels": { "low": "none", "medium": "0 1px 0 rgba(25,25,25,.06)", "high": "0 24px 60px -24px rgba(25,25,25,.28) (overlay screenshot only)" },
+      "depth_cues": "real 3D perspective, receding scale, contact shadows on the paper floor"
+    },
+    "iconography": { "style": "outline", "stroke_weight": "1.5", "size_scale": "16 / 20 / 24", "preferred_set": "lucide-react" },
+    "motion": {
+      "easing": "cubic-bezier(0.23, 1, 0.32, 1) (expo-out); collection uses critically-damped lerp",
+      "duration_scale": { "micro": "140ms", "normal": "320ms", "macro": "900ms" },
+      "entrance_pattern": "objects already present; labels swap with a 12px rise and opacity",
+      "exit_pattern": "reverse of entrance, 60% duration",
+      "philosophy": "cinematic only on the one peak (opening a computer); everything else is exact feedback"
+    },
+    "components": {
+      "button_style": "square 2px corners; primary = ink fill with paper text; secondary = text link with offset underline",
+      "input_style": "none on the page (no forms)",
+      "card_style": "no cards — objects and label tables",
+      "navigation_pattern": "plain header: name left, WORK / ABOUT / CONTACT right; collection index rail of 11 ticks",
+      "modal_style": "full-screen project overlay on paper, opened by growing the selected screen",
+      "list_style": "quiet ledger rows (title / category / year) with hover preview",
+      "component_notes": "Every computer carries the same label schema: index, title, category, year, built with."
+    }
+  },
+  "design_style": {
+    "aesthetic": {
+      "mood": ["calm", "editorial", "tactile", "precise", "quietly confident"],
+      "visual_metaphor": "a curated shelf of hardware in a gallery; each machine is still switched on to the site it shipped",
+      "era_influence": "contemporary industrial design (aluminium, glass) with print-catalogue typography",
+      "genre": "independent creative portfolio / digital archive",
+      "personality_traits": ["meticulous", "understated", "curious", "honest"],
+      "adjectives": ["silver", "ivory", "exact", "unhurried"]
+    },
+    "visual_language": {
+      "complexity": "minimal",
+      "ornamentation": "none",
+      "whitespace_usage": "generous; whitespace is the room around the objects",
+      "visual_weight_distribution": "centre-heavy (the selected computer), labels at the lower-left and controls at the lower-right",
+      "focal_strategy": "single hero element (the selected computer)",
+      "contrast_level": "high for type, low for surfaces",
+      "texture_usage": "the aluminium and glass of the computers only"
+    },
+    "composition": {
+      "hierarchy_method": "scale contrast + spatial isolation",
+      "balance_type": "asymmetric",
+      "flow_direction": "horizontal in the collection, vertical elsewhere",
+      "grouping_strategy": "proximity inside label tables",
+      "negative_space_role": "the ivory room that makes the objects read as objects"
+    },
+    "imagery": {
+      "photo_treatment": "untreated real website captures, never redesigned",
+      "illustration_style": "none",
+      "graphic_elements": "the computers (real-time 3D)",
+      "pattern_usage": "none",
+      "image_shape": "screen rectangles with the display's own corner radius"
+    },
+    "interaction_feel": {
+      "feedback_style": "precise, immediate",
+      "hover_behavior": "links underline-offset change; ledger rows dim siblings; the selected screen scrolls its site",
+      "transition_personality": "smooth glide",
+      "loading_style": "none (no loading screens); objects appear when textures arrive",
+      "microinteraction_density": "low"
+    },
+    "brand_voice_in_ui": {
+      "tone": "plain, first person, factual",
+      "formality": "semi-formal",
+      "cta_style": "direct imperative (Open project, Visit live website)",
+      "empty_state_approach": "say what is missing and where to add it",
+      "error_tone": "factual"
+    }
+  },
+  "visual_effects": {
+    "overview": {
+      "effect_intensity": "moderate",
+      "performance_tier": "heavy (one WebGL canvas), budgeted",
+      "fallback_strategy": "no WebGL or reduced motion → static screenshots in CSS frames, instant transitions",
+      "primary_technology": "Three.js + GSAP ScrollTrigger + Lenis"
+    },
+    "background_effects": {
+      "type": "none",
+      "description": "Flat paper ground. The canvas is transparent over it.",
+      "technology": "CSS",
+      "params": { "color_palette": ["#F3F2EE"], "speed": "n/a", "density": "n/a", "opacity": "1", "blend_mode": "normal" }
+    },
+    "particle_systems": {
+      "enabled": false, "type": "none", "description": "none", "technology": "none",
+      "params": { "count": "0", "shape": "n/a", "size_range": "n/a", "movement_pattern": "n/a", "color_behavior": "n/a", "interaction": "none", "spawn_area": "n/a" }
+    },
+    "3d_elements": {
+      "enabled": true,
+      "type": "product-viewer",
+      "description": "Eleven procedurally modelled all-in-one computers (aluminium body, glass display, bent stand) on an implied floor; screens carry the real site captures as textures.",
+      "technology": "Three.js r17x",
+      "params": {
+        "renderer": "WebGLRenderer, alpha, antialias, ACES tone mapping, DPR ≤ 2",
+        "lighting": "PMREM RoomEnvironment for metal reflections + one soft key light",
+        "camera": "perspective, fov 28, slightly above the screens' centre",
+        "materials": "MeshPhysicalMaterial brushed aluminium (metalness 1, roughness .3), black glass bezel with clearcoat, unlit screen texture",
+        "geometry": "rounded boxes, rounded-rect screen shapes, extruded stand profile",
+        "post_processing": [],
+        "interaction_model": "scroll / drag / keys move the shelf; pointer over the selected screen scrolls its site; click opens"
+      }
+    },
+    "shader_effects": {
+      "enabled": false, "type": "none", "description": "none", "technology": "none",
+      "params": { "uniforms": "none", "vertex_manipulation": "none", "fragment_output": "none", "noise_type": "none", "distortion": "none" }
+    },
+    "scroll_effects": {
+      "parallax": { "enabled": false, "layers": "0", "depth_range": "n/a", "speed_curve": "n/a" },
+      "scroll_triggered_animations": {
+        "enabled": true,
+        "trigger_points": "collection pinned for (n-1) × 70vh; ledger rows on enter",
+        "animation_type": "scrubbed horizontal shelf travel",
+        "scrub_behavior": "scrubbed with lerp, snapping to the nearest computer"
+      },
+      "scroll_morphing": { "enabled": false, "description": "none" }
+    },
+    "text_effects": {
+      "type": "none",
+      "description": "Label swap: outgoing label rises out, incoming rises in, by line.",
+      "technology": "GSAP",
+      "params": { "split_strategy": "by-line", "animation_per_unit": "translateY 12px + opacity", "stagger": "40ms", "effect_style": "quiet" }
+    },
+    "cursor_effects": {
+      "enabled": false, "type": "none", "description": "native cursor; grab/grabbing over the shelf",
+      "params": { "shape": "native", "size": "native", "blend_mode": "normal", "trail": "none", "interaction_zone": "n/a" }
+    },
+    "image_effects": {
+      "type": "reveal-clip",
+      "description": "Opening a project grows the screen rectangle into the overlay hero (FLIP).",
+      "technology": "GSAP",
+      "params": { "filter_pipeline": "none", "hover_transform": "none", "reveal_animation": "FLIP from projected screen rect", "distortion_type": "none" }
+    },
+    "glassmorphism_neumorphism": {
+      "enabled": false, "style": "none",
+      "params": { "blur_radius": "0", "transparency": "0", "border_treatment": "none", "shadow_type": "none", "light_source_angle": "n/a" }
+    },
+    "canvas_drawings": {
+      "enabled": false, "type": "none", "description": "Contact shadows are pre-drawn radial textures.", "technology": "Canvas 2D (once)",
+      "params": { "draw_method": "radial gradient", "animation_loop": "none", "color_scheme": "ink at low alpha", "responsiveness": "n/a", "interaction": "none" }
+    },
+    "svg_animations": {
+      "enabled": false, "type": "none", "description": "none",
+      "params": { "animation_method": "none", "path_morphing": "none", "stroke_animation": "none", "filter_effects": "none" }
+    },
+    "composite_notes": "One canvas renders all computers; screen textures load lazily nearest-first. Only the selected computer receives the tall full-page texture (for the look-through move) and only on fine pointers. The canvas pauses when the collection is off-screen or the overlay is open."
+  }
+}

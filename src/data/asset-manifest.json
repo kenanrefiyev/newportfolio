@@ -1,0 +1,134 @@
+{
+  "chaidash": {
+    "screen": true,
+    "fullPage": {
+      "width": 1200,
+      "height": 7200
+    },
+    "scrollTex": {
+      "width": 1024,
+      "height": 6144
+    },
+    "mobile": true
+  },
+  "direct": {
+    "screen": true,
+    "fullPage": {
+      "width": 1200,
+      "height": 7200
+    },
+    "scrollTex": {
+      "width": 1024,
+      "height": 6144
+    },
+    "mobile": true
+  },
+  "finline": {
+    "screen": true,
+    "fullPage": {
+      "width": 1200,
+      "height": 7200
+    },
+    "scrollTex": {
+      "width": 1024,
+      "height": 6144
+    },
+    "mobile": true
+  },
+  "galaxy-technology": {
+    "screen": true,
+    "fullPage": {
+      "width": 1200,
+      "height": 3146
+    },
+    "scrollTex": {
+      "width": 1024,
+      "height": 2684
+    },
+    "mobile": true
+  },
+  "instrument-az": {
+    "screen": true,
+    "fullPage": {
+      "width": 1200,
+      "height": 3068
+    },
+    "scrollTex": {
+      "width": 1024,
+      "height": 2618
+    },
+    "mobile": true
+  },
+  "rum-rentacar": {
+    "screen": true,
+    "fullPage": {
+      "width": 1200,
+      "height": 6253
+    },
+    "scrollTex": {
+      "width": 1024,
+      "height": 5336
+    },
+    "mobile": true
+  },
+  "taxwise": {
+    "screen": true,
+    "fullPage": {
+      "width": 1200,
+      "height": 7200
+    },
+    "scrollTex": {
+      "width": 1024,
+      "height": 6144
+    },
+    "mobile": true
+  },
+  "vintage": {
+    "screen": true,
+    "fullPage": {
+      "width": 1200,
+      "height": 7200
+    },
+    "scrollTex": {
+      "width": 1024,
+      "height": 6144
+    },
+    "mobile": true
+  },
+  "xaxaxa": {
+    "screen": true,
+    "fullPage": {
+      "width": 1200,
+      "height": 750
+    },
+    "scrollTex": {
+      "width": 1024,
+      "height": 640
+    },
+    "mobile": true
+  },
+  "yasemin": {
+    "screen": true,
+    "fullPage": {
+      "width": 1200,
+      "height": 6315
+    },
+    "scrollTex": {
+      "width": 1024,
+      "height": 5389
+    },
+    "mobile": true
+  },
+  "yuva": {
+    "screen": true,
+    "fullPage": {
+      "width": 1200,
+      "height": 6823
+    },
+    "scrollTex": {
+      "width": 1024,
+      "height": 5822
+    },
+    "mobile": true
+  }
+}
